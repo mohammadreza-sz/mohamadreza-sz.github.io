@@ -8,10 +8,9 @@ ___
 <!DOCTYPE html>
 <html>
  <head>
- <title> Page title </title>
  </head>
  <body>
- <p>you can find me in skype with this id live:.cid.b673d98532dadf27<br><\p>
+ <p>you can find me in skype with this id live:.cid.b673d98532dadf27<br></p>
  </body>
 </html>
 
