@@ -10,7 +10,7 @@ ___
  <head>
  </head>
  <body>
- <p>you can find me in skype with this id </p><p class="mrs" style="color: blue">live:.cid.b673d98532dadf27<br></p>
+ <p>you can find me in skype with this id </p><p class="mrs" style="forground-color:blue;">live:.cid.b673d98532dadf27<br></p>
  </body>
 </html>
 
