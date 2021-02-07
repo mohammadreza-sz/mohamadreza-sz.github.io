@@ -6,11 +6,11 @@ ___
 ![bike](https://avatar.skype.com/v1/avatars/live:.cid.b673d98532dadf27?auth_key=396504639&size=m)
 ***
 *i study at **iust** university*<br>
+you can visit iust with this link (http://www.iust.ac.ir/en)<br>
 |favorite      |university    |
 |:------------:|:------------:|
 |biking        |iust          |
 |mountaineering|              |
 <br>
-you can visit iust with this link (http://www.iust.ac.ir/en)<br>
 you can find me in skype with this id live:.cid.b673d98532dadf27<br>
  	:wave:
