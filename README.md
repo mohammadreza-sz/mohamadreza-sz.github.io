@@ -11,13 +11,13 @@ ___
 |biking        |iust          |
 |mountaineering|              |
 <br>
->you can visit iust with [this](http://www.iust.ac.ir/en)
+>you can visit iust with ![this](http://www.iust.ac.ir/en)
 <!DOCTYPE html>
 <html>
  <head>
  </head>
  <body>
- <p  style="color:red;" em>you can find me in skype with this id live:.cid.b673d98532dadf27<br></p>
+ <p  style="color:red;" >you can find me in skype with this id live:.cid.b673d98532dadf27<br></p>
  </body>
 </html>
 
