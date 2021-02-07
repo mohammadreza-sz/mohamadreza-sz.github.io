@@ -10,7 +10,7 @@ click [damavand mountain](https://www.tabnak.ir/fa/news/900341/%D8%AF%D9%85%D8%A
  <head>
  </head>
  <body>
- <p>you can find me in ~~skype~~ with this id </p><p style="color:red">live:.cid.b673d98532dadf27<br></p>
+ <p>you can find me in ~skype~ with this id </p><p style="color:red">live:.cid.b673d98532dadf27<br></p>
  </body>
 </html>
 
