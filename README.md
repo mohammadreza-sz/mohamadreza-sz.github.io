@@ -6,10 +6,10 @@ ___
 ![bike](https://avatar.skype.com/v1/avatars/live:.cid.b673d98532dadf27?auth_key=396504639&size=m)
 ***
 *i study at **iust** university*<br>
-|favorite|university|
-|:------:|:--------:|
-|biking  |iust      |
-|mountaineering|    |
+|favorite      |university    |
+|:------------:|:------------:|
+|biking        |iust          |
+|mountaineering|              |
 you can visit iust with [this](http://www.iust.ac.ir/en)
 <!DOCTYPE html>
 <html>
